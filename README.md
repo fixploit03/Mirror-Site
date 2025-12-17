@@ -4,7 +4,7 @@ Repositori ini berisi daftar tautan mirror site resmi dari berbagai sistem opera
 
 | Nama Distro | Logo Distro  | Link |
 |:--:|:--:|:--:|
-| Arch Linux | | [https://archive.archlinux.org/iso/](https://archive.archlinux.org/iso/) |
+| Arch Linux | ![](https://github.com/fixploit03/Mirror-Site/blob/main/img/arch%20linux.jpg) | [https://archive.archlinux.org/iso/](https://archive.archlinux.org/iso/) |
 | Debian | | [https://cdimage.debian.org/mirror/cdimage/archive/](https://cdimage.debian.org/mirror/cdimage/archive/)
 | Fedora | | [https://archives.fedoraproject.org/pub/archive/fedora/linux/releases/](https://archives.fedoraproject.org/pub/archive/fedora/linux/releases/)
 | Kali Linux | | [https://old.kali.org/kali-images/](https://old.kali.org/kali-images/)
