@@ -2,23 +2,18 @@
 
 Repositori ini berisi daftar tautan mirror site resmi dari berbagai sistem operasi Linux untuk memudahkan pengunduhan file ISO.
 
-- Debian
-  - [cdimage.debian.org](https://cdimage.debian.org/mirror/cdimage/archive/)
-  - [kartolo.sby.datautama.net.id](https://kartolo.sby.datautama.net.id/debian-cd/)
-- Fedora
-  - [archives.fedoraproject.org](https://archives.fedoraproject.org/pub/archive/fedora/linux/releases/)
-  - [dl.fedoraproject.org](https://dl.fedoraproject.org/pub/fedora/linux/releases/) 
-- Kali Linux
-  - [old.kali.org](https://old.kali.org/kali-images/)
-  - [kartolo.sby.datautama.net.id](https://kartolo.sby.datautama.net.id/kali-images/) 
-- Linux Mint
-  - [packages.linuxmint.com](http://packages.linuxmint.com/dists/)
-  - [kartolo.sby.datautama.net.id](https://kartolo.sby.datautama.net.id/linuxmint-iso/) 
-- Parrot OS
-  - [cdimage.debian.org](https://cdimage.debian.org/mirror/parrotsec.org/parrot/iso/)
-  - [kartolo.sby.datautama.net.id](https://kartolo.sby.datautama.net.id/parrot/)
-- Ubuntu
-  - [releases.ubuntu.com](https://releases.ubuntu.com/)
-  - [kartolo.sby.datautama.net.id](https://kartolo.sby.datautama.net.id/ubuntu-cd/)
+| Nama Distro | Logo Distro  | Link |
+|:--:|:--:|:--:|
+| Arch Linux | | [https://archive.archlinux.org/iso/](https://archive.archlinux.org/iso/) |
+| Debian | | [https://cdimage.debian.org/mirror/cdimage/archive/](https://cdimage.debian.org/mirror/cdimage/archive/)
+| Fedora | | [https://archives.fedoraproject.org/pub/archive/fedora/linux/releases/](https://archives.fedoraproject.org/pub/archive/fedora/linux/releases/)
+| Kali Linux | | [https://old.kali.org/kali-images/](https://old.kali.org/kali-images/)
+| kaOS | | [https://mirror.math.princeton.edu/pub/kaoslinux/](https://mirror.math.princeton.edu/pub/kaoslinux/)
+| Knoppix | | [https://mirror.math.princeton.edu/pub/knoppix/](https://mirror.math.princeton.edu/pub/knoppix/)
+| Linux Mint | | [http://packages.linuxmint.com/dists/](http://packages.linuxmint.com/dists/)
+| Linux Lite | | [https://repo.linuxliteos.com/linuxlite/isos/](https://repo.linuxliteos.com/linuxlite/isos/)
+| Lubuntu | | [https://cdimage.ubuntu.com/lubuntu/releases/](https://cdimage.ubuntu.com/lubuntu/releases/)
+| Parrot OS | | [https://cdimage.debian.org/mirror/parrotsec.org/parrot/iso/](https://cdimage.debian.org/mirror/parrotsec.org/parrot/iso/)
+| Ubuntu | | [https://releases.ubuntu.com/](https://releases.ubuntu.com/)
 
 Semoga bermanfaat ^_^
